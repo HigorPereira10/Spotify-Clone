@@ -30,4 +30,4 @@ Este projeto é uma recriação responsiva do site do Spotify Brasil, inspirado 
    ```bash
    git clone https://github.com/seuusuario/spotify-brasil-2018.git
 
-2. Abra o arquivo index.html no navegador para visualizar o site.
+2. Abra o arquivo `index.html` no navegador para visualizar o site.
