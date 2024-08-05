@@ -1,6 +1,6 @@
 # Spotify Brasil - Versão 2018
 
-![Spotify Logo](imagens/spotify.svg)
+<img src="imagens/spotify.svg" alt="Spotify Logo" width="100">
 
 ## Descrição
 
