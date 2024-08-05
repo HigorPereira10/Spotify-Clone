@@ -1,4 +1,4 @@
-# Spotify Brasil - Versão 2018
+# Spotify Clone
 
 <img src="imagens/spotify.svg" alt="Spotify Logo" width="100">
 
